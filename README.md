@@ -1,7 +1,3 @@
-# Awesome Shopify [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
-[<img src="shopify.png" width="250px" align="right" alt="Shopify">](https://www.shopify.com/?ref=vitalogy)
-
 > A Pro basic guide of awesome [Shopify](https://www.shopify.com) resources, libraries and open source projects.
 
 [Shopify](https://www.shopify.com/blog/what-is-shopify?ref=vitalogy) is a popular e-commerce platform that allows to build and manage online stores.
